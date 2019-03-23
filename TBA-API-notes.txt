@@ -1,0 +1,8 @@
+https://www.thebluealliance.com/apidocs/v3
+
+zdnemo@gmail.com account has X-TBA-Auth-Key:
+mfRYpEpNbmiknYuH9Y1UfBgN8IXb1DXj5d18898PeajWHRdA69M6qTOtvZRz7zYZ
+
+Get 2018 Event Codes:
+https://www.thebluealliance.com/api/v3/events/2018/keys?X-TBA-Auth-Key=mfRYpEpNbmiknYuH9Y1UfBgN8IXb1DXj5d18898PeajWHRdA69M6qTOtvZRz7zYZ
+
